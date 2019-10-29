@@ -2,6 +2,5 @@
 
 # Cite as:
 Kellogg, JJ; Kvalheim, OM; Cech, NB (2019)
-Composite score analysis for unsupervised comparison and network visualization of metabolomics data
-Analytica Chimica Acta
-in press
+Composite score analysis for unsupervised comparison and network visualization of metabolomics data.
+Analytica Chimica Acta, in press
